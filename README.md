@@ -5,12 +5,20 @@ Built with **React Native** and **Expo**, this app demonstrates the use of state
 
 ---
 
-## 📱 Screenshots
 
-| Start Screen | Game Screen | Game Over |
-|---------------|--------------|-------------|
-| <img src="./assets/screenshots/start.png" width="250"/> | <img src="./assets/screenshots/game.png" width="250"/> | <img src="./assets/screenshots/gameover.png" width="250"/> |
+## 📸 Screenshots
 
+### 🏁 Start Screen
+![Start Screen](./assets/start.png)
+
+### 🎯 Game Screen
+![Game Screen](./assets/game.png)
+
+### 🏆 Game Over Screen
+![Game Over Screen](./assets/gameover.png)
+
+### ✅ Success Icon
+![Success Icon](./assets/success.png)
 ---
 
 ## 🧠 Features
