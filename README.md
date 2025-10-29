@@ -5,13 +5,14 @@ Built with **React Native** and **Expo**, this app demonstrates the use of state
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
 <p align="center">
-  <img src="./assets/start.png" alt="Start Screen" width="30%" style="margin-right:10px;"/>
-  <img src="./assets/game.png" alt="Game Screen" width="30%" style="margin-right:10px;"/>
-  <img src="./assets/gameover.png" alt="Game Over Screen" width="30%"/>
+  <img src="./assets/start.png" alt="Start Screen" height="450" style="margin-right:10px;"/>
+  <img src="./assets/game.png" alt="Game Screen" height="450" style="margin-right:10px;"/>
+  <img src="./assets/gameover.png" alt="Game Over Screen" height="450"/>
 </p>
+
 
 ## 🧠 Features
 
